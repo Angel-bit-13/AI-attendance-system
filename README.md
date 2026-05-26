@@ -33,12 +33,12 @@ This project automatically detects and recognizes faces through a webcam and mar
 
 ## 😀 Face Detection
 
-![Detection](detection.png)
+![Detection](detection(2).png)
 
 ---
 
 ## 📋 Attendance CSV Output
 
-![Attendance](attendance.png)
+![Attendance](attendance(1).png)
 
 ---
